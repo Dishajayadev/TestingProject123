@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-09T16:12:12 PST" name="Default suite" finished-at="2021-02-09T16:12:23 PST" duration-ms="10778">
+    <groups>
+    </groups>
+    <test started-at="2021-02-09T16:12:12 PST" name="Default test" finished-at="2021-02-09T16:12:23 PST" duration-ms="10778">
+      <class name="APIAutomation.DummyAPI.DeleteDummyAPI">
+        <test-method is-config="true" signature="init()[pri:0, instance:APIAutomation.DummyAPI.DeleteDummyAPI@769e7ee8]" started-at="2021-02-09T16:12:12 PST" name="init" finished-at="2021-02-09T16:12:14 PST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="deleteUser()[pri:0, instance:APIAutomation.DummyAPI.DeleteDummyAPI@769e7ee8]" started-at="2021-02-09T16:12:14 PST" name="deleteUser" finished-at="2021-02-09T16:12:23 PST" duration-ms="9160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- APIAutomation.DummyAPI.DeleteDummyAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
